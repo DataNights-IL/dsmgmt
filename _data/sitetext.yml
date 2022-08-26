@@ -29,12 +29,10 @@ en: &DEFAULT_EN
         desc: "Please [fill this form](https://forms.gle/Kg2JG2P3ffRfQWd57){:target='\_blank'} if you’d like to consider hosting the next cohort, or mail us at [contact.datahack@gmail.com](mailto:contact.datahack@gmail.com)."
         icon: fas fa-building
 
-  about:
-    title: "About The Program"
-    body: "Our team management program is meant to help both new and aspiring managers heading data science teams in tackling the challenges facing them. We focus on methodolgies and frameworks that deal with the unique challenges of a data science team - addressing all the points in which software development methodologies stop making sense for us. This is done by getting the best people heading data science teams and groups out there to come and share their experience with our participants.
 
-At its latest iteration, the program is made up of 6 sessions, made up of 11 talks and several additional discussion-based activities."
-    section: about
+  portfolio:
+    title: "About The Program"
+    text: "Our team management program is meant to help both new and aspiring managers heading data science teams in tackling the challenges facing them. We focus on methodolgies and frameworks that deal with the unique challenges of a data science team - addressing all the points in which software development methodologies stop making sense for us."
 
 
   team:
