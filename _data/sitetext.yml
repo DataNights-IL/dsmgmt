@@ -15,24 +15,22 @@ en: &DEFAULT_EN
     text:
 
   services:
-    title: "Become a part of the program!"
+    title: "Join Us"
     text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+      - title: "[Lecture](https://forms.gle/aHSNNciGC28sncpP6){:target='\_blank'}"
+        desc: "Please [fill this form](https://forms.gle/aHSNNciGC28sncpP6){:target='\_blank'} if you'd like to join as a speaker."
+        icon: fas fa-comment #find more at https://fontawesome.com/icons
+      - title: "[Participate](https://forms.gle/9FnuRFPQpcasEYKXA){:target='\_blank'}"
+        desc: "Please [fill this form](https://forms.gle/9FnuRFPQpcasEYKXA){:target='\_blank'} to get notified when registration for the next cohort opens."
+        icon: fas fa-users
+      - title: "[Host](https://forms.gle/Kg2JG2P3ffRfQWd57){:target='\_blank'}"
+        desc: "Please [fill this form](https://forms.gle/Kg2JG2P3ffRfQWd57){:target='\_blank'} if you’d like to consider hosting the next cohort, or mail us at [contact.datahack@gmail.com](mailto:contact.datahack@gmail.com)."
+        icon: fas fa-building
 
   about:
     title: "About The Program"
-    text: "our story"
     body: "Our team management program is meant to help both new and aspiring managers heading data science teams in tackling the challenges facing them. We focus on methodolgies and frameworks that deal with the unique challenges of a data science team - addressing all the points in which software development methodologies stop making sense for us. This is done by getting the best people heading data science teams and groups out there to come and share their experience with our participants.
 
 At its latest iteration, the program is made up of 6 sessions, made up of 11 talks and several additional discussion-based activities."
