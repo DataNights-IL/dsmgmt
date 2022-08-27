@@ -31,9 +31,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About The Program"
-    body: "Our team management program is meant to help both new and aspiring managers heading data science teams in tackling the challenges facing them. We focus on methodolgies and frameworks that deal with the unique challenges of a data science team - addressing all the points in which software development methodologies stop making sense for us."
+    body: "Our team management program is meant to help both new and aspiring managers heading data science teams in tackling the challenges facing them. We focus on methodolgies and frameworks that deal with the unique challenges of a data science team - addressing all the points in which software development methodologies stop making sense for us. [Click here to see the list of speakers for the first cohort](https://datanights-il.github.io/programs/dsmgmt/#service){:target='\_blank'}."
     section: about
-
 
   team:
     title: "OUR TEAM"

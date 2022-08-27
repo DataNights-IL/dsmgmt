@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/dsmgmt" # the subpath of your site, e.g. /blog
 
-title      : A DataHack Project
+title      : ""
 email      : contact.datahack@gmail.com  #this is also the email contact forms will go to
 description: "A DataNights program dedicated to data science team leaders!"
 author     : Shay Palachy-Affek
