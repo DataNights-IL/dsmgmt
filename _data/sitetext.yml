@@ -41,35 +41,29 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Gal Hever"
+        role: "DataNights Founder"
+        image: assets/img/team/g_hever_500x500.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://galhever.medium.com/
+            icon: fab fa-medium
+          - url: https://www.linkedin.com/in/gal-hever/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Shay Palachy-Affek"
+        role: "Program Director, DataHack Co-Founder"
+        image: assets/img/team/spalachy_500x500.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://medium.com/@shay-palachy
+            icon: fab fa-medium
+          - url: https://www.shaypalachy.com/
+            icon: fa fa-home
+          - url: https://www.linkedin.com/in/shaypalachy/
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Nurit Vatnik"
+        role: "Program Adviosr, VP Data @ Forter"
+        image: assets/img/team/nurit_500x500.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/nuritvatnik/
             icon: fab fa-linkedin-in
 
   contact:
