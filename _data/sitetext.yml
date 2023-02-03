@@ -39,13 +39,13 @@ en: &DEFAULT_EN
     text: "The people behind the program"
     section: team
     people:
-      - name: "Gal Hever"
-        role: "DataNights Founder"
-        image: assets/img/team/g_hever_500x500.jpeg
+      - name: "Topaz Gilad"
+        role: "Alumni, Program Team, VP AI @ Voyage81"
+        image: assets/img/team/topaz.png
         social:
-          - url: https://galhever.medium.com/
+          - url: https://medium.com/@topaz.gl
             icon: fab fa-medium
-          - url: https://www.linkedin.com/in/gal-hever/
+          - url: https://www.linkedin.com/in/topaz-gilad-74b70715a/
             icon: fab fa-linkedin-in
       - name: "Shay Palachy-Affek"
         role: "Program Director, DataHack Co-Founder"
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/shaypalachy/
             icon: fab fa-linkedin-in
       - name: "Nurit Vatnik"
-        role: "Program Adviosr, VP Data @ Forter"
+        role: "Program Team, VP Data @ Forter"
         image: assets/img/team/nurit_500x500.png
         social:
           - url: https://www.linkedin.com/in/nuritvatnik/
