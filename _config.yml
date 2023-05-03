@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/dsmgmt" # the subpath of your site, e.g. /blog
 
 title      : ""
-email      : contact.datahack@gmail.com  #this is also the email contact forms will go to
+email      : contact@datahack.org.il  #this is also the email contact forms will go to
 description: "A DataNights program dedicated to data science team leaders!"
 author     : Shay Palachy-Affek
 # logo:     #optional, defaults to site title
